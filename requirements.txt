@@ -1,0 +1,7 @@
+## Knowledge of Tools
+streamlit
+pandas
+numpy
+scikit-learn
+pickle-mixin
+
