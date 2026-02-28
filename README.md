@@ -1,3 +1,7 @@
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]
+(https://movierecommendersystem-houpxxmzesn5h4bheccryd.streamlit.app)
+
 # 🎬 Movie Recommender System
 
 A content-based movie recommendation system built using Python and machine learning techniques.
