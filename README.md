@@ -17,7 +17,7 @@ A content-based movie recommendation system built using Python and machine learn
 - Pandas
 - NumPy
 - Scikit-learn
-- Streamlit / Flask
+- Streamlit
 
 ## 📂 Project Structure
 
