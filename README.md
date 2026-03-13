@@ -9,7 +9,7 @@ A content-based movie recommendation system built using Python and machine learn
 ## 📌 Features
 - Recommends similar movies based on user selection
 - Uses cosine similarity for recommendations
-- Built with Streamlit (if you used it) / Flask (if you used it)
+- Built with Streamlit 
 - Simple and interactive UI
 
 ## 🛠 Tech Stack
